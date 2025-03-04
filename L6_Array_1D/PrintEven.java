@@ -1,3 +1,4 @@
+package L6_Array_1D;
 
 public class PrintEven {
     public static void main(String[] args) {

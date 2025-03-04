@@ -1,3 +1,4 @@
+package L6_Array_1D;
 public class MinMax {
     public static void main(String[] args) {
         int[] markList={98,97,5};

@@ -1,3 +1,4 @@
+package L6_Array_1D;
 
 
 public class PrintPrimes {
